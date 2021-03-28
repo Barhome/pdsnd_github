@@ -10,7 +10,7 @@ Training on Git and GitHub
 
 ### Description
 
-Describe what your project is about and what it does
+I am working on this project for Git and GitHub training purposes.I just am training my self.
 
 ### Files used
 
