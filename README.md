@@ -6,7 +6,7 @@ Sunday 28/03/2021
 
 ### Project Title
 
-Replace the Project Title
+Training on Git and GitHub
 
 ### Description
 
